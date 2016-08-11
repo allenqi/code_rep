@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\login.o
+./debug\selectpage.o
+./debug\ketingpage.o
+./debug\lzykeyboard.o
+./debug\lzylineedit.o
+./debug\moc_login.o
+./debug\moc_selectpage.o
+./debug\moc_ketingpage.o
+./debug\moc_lzykeyboard.o
+./debug\moc_lzylineedit.o
+);

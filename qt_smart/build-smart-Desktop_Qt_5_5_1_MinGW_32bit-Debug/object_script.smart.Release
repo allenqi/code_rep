@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\login.o
+./release\selectpage.o
+./release\ketingpage.o
+./release\lzykeyboard.o
+./release\lzylineedit.o
+./release\moc_login.o
+./release\moc_selectpage.o
+./release\moc_ketingpage.o
+./release\moc_lzykeyboard.o
+./release\moc_lzylineedit.o
+);
